@@ -1,5 +1,5 @@
 const frisby = require('frisby');
-const API_KEY = process.env.API_KEY // PMAK-6496e57a013b8b0043d34c57-4c809bb5067fa3cd9ef87cbaf00925f06a
+const API_KEY = process.env.API_KEY
 const WID = "189f96fa-51e4-4f3e-a0fb-4a5c156f982e"
 
 describe('Postman API: Day 29', () => {
